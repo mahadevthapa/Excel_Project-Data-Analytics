@@ -68,7 +68,7 @@ IF(
 * Implemented dropdowns for selecting validated inputs like `Job Title`, `Country`, and `Schedule Type`.
 * Prevents incorrect or inconsistent entries, improving dashboard usability.
 
-<img src="/images/one.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="/images/one.png" width="750" height="500" alt="Salary Dashboard Chart1">
 
 ---
 
