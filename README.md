@@ -68,6 +68,8 @@ IF(
 * Implemented dropdowns for selecting validated inputs like `Job Title`, `Country`, and `Schedule Type`.
 * Prevents incorrect or inconsistent entries, improving dashboard usability.
 
+<img src="/images/one.png" width="850" height="550" alt="Salary Dashboard Chart1">
+
 ---
 
 ## Project 2: Job Market Skills & Salary Analysis
@@ -102,6 +104,10 @@ IF(
 * Positive correlation between number of skills and salary.
 * Senior roles requiring more skills often offer higher salaries.
 
+<img src="/images/six.png" width="850" height="550" alt="Salary Dashboard Chart1">
+
+<img src="/images/two.png" width="850" height="550" alt="Salary Dashboard Chart1">
+
 ---
 
 ## 2️⃣ Salaries Across Regions
@@ -120,6 +126,8 @@ IF(
 * US-based roles generally offer higher salaries.
 * Regional salary comparisons reveal economic and industry differences.
 
+<img src="/images/three.png" width="850" height="550" alt="Salary Dashboard Chart1">
+
 ---
 
 ## 3️⃣ Top Skills in the Data Job Market
@@ -132,6 +140,12 @@ IF(
 ### 💡 Insight
 
 * Python, SQL, AWS, and Azure are the most in-demand and high-paying skills.
+
+<img src="/images/nine.png" width="850" height="550" alt="Salary Dashboard Chart1">
+
+<img src="/images/seven.png" width="850" height="550" alt="Salary Dashboard Chart1">
+
+<img src="/images/four.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
 
 ---
@@ -148,6 +162,8 @@ IF(
 
 * Python, SQL, and Oracle lead in salary potential.
 * Less technical skills like Word and PowerPoint show low pay and low demand.
+
+<img src="/images/five.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
 ---
 
