@@ -68,7 +68,7 @@ IF(
 * Implemented dropdowns for selecting validated inputs like `Job Title`, `Country`, and `Schedule Type`.
 * Prevents incorrect or inconsistent entries, improving dashboard usability.
 
-<img src="/images/one.png" width="750" height="500" alt="Salary Dashboard Chart1">
+<img src="/images/one.png" width="850" height="450" alt="Salary Dashboard Chart1">
 
 ---
 
@@ -163,7 +163,7 @@ IF(
 * Python, SQL, and Oracle lead in salary potential.
 * Less technical skills like Word and PowerPoint show low pay and low demand.
 
-<img src="/images/five.png" width="700" height="450" alt="Salary Dashboard Chart1">
+<img src="/images/five.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
 ---
 
