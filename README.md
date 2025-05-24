@@ -163,7 +163,7 @@ IF(
 * Python, SQL, and Oracle lead in salary potential.
 * Less technical skills like Word and PowerPoint show low pay and low demand.
 
-<img src="/images/five.png" width="768" height="300" alt="Salary Dashboard Chart1">
+<img src="/images/five.png" width="728" height="300" alt="Salary Dashboard Chart1">
 
 ---
 
