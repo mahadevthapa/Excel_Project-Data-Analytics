@@ -104,9 +104,9 @@ IF(
 * Positive correlation between number of skills and salary.
 * Senior roles requiring more skills often offer higher salaries.
 
-<img src="/images/six.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="/images/six.png" width="768" height="350" alt="Salary Dashboard Chart1">
 
-<img src="/images/two.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="/images/two.png" width="768" height="350" alt="Salary Dashboard Chart1">
 
 ---
 
@@ -126,7 +126,7 @@ IF(
 * US-based roles generally offer higher salaries.
 * Regional salary comparisons reveal economic and industry differences.
 
-<img src="/images/three.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="/images/three.png" width="768" height="350" alt="Salary Dashboard Chart1">
 
 ---
 
@@ -141,11 +141,11 @@ IF(
 
 * Python, SQL, AWS, and Azure are the most in-demand and high-paying skills.
 
-<img src="/images/nine.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="/images/nine.png" width="768" height="350" alt="Salary Dashboard Chart1">
 
-<img src="/images/seven.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="/images/seven.png" width="768" height="350" alt="Salary Dashboard Chart1">
 
-<img src="/images/four.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="/images/four.png" width="768" height="350" alt="Salary Dashboard Chart1">
 
 
 ---
